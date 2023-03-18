@@ -1,6 +1,7 @@
 # Hi, I'm Claire! 👋
-### 🔭 I'm a Web and Mobile App Development Developer
-### with soft spot for UI and UX Design 🫶
+#### I'm a Web and Mobile App Developer with soft spot for UI and UX Design 🫶
+
+
 <br><br>
 ## Connect with me:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clairesimbulan/)
