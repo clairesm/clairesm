@@ -1,5 +1,5 @@
 # Hi, I'm Claire! 👋
-#### I'm a Web and Mobile App Developer with soft spot for UI and UX Design 🫶
+#### A Front End Developer with a soft spot for UI/UX Design.🫶 Continuously seeking innovative approaches to streamline tasks efficiently. Experienced Fraud Specialist with strong communication, organizational, and critical thinking skills, coupled with a passion for customer service - an edge in understanding users’ needs and integrating accessibility.
 
 
 <br><br>
