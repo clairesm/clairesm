@@ -1,5 +1,5 @@
 # Hi, I'm Claire! 👋
-#### A Front End Developer with a soft spot for UI/UX Design.🫶 Continuously seeking innovative approaches to streamline tasks efficiently. Experienced Fraud Specialist with strong communication, organizational, and critical thinking skills, coupled with a passion for customer service - an edge in understanding users’ needs and integrating accessibility.
+#### I'm a Front End Developer with a soft spot for UI/UX Design.🫶 I strive to work intelligently and efficiently, always seeking out innovative ways to streamline processes and maximize productivity.
 
 ### What I'm learning right now: <br>
 📱 React and Animation 🎬
